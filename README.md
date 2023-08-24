@@ -1,4 +1,4 @@
-# Hazard-Games
+# Hazard
 Building AI course project
 ## Summary
 
