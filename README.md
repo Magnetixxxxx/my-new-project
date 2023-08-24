@@ -1,2 +1,5 @@
-# my-new-project
+# Hazard-Games
 Building AI course project
++
+summary
+
